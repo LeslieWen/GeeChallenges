@@ -16,7 +16,8 @@ public class GChallenge {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        TempConv a = new TempConv('a','a',3.0);
+        TempConv a = new TempConv('c','k',363.0);
+        System.out.println(a.convert());
         
     }
     
