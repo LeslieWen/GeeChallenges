@@ -9,16 +9,20 @@ package gchallenge;
  *
  * @author lesliewen
  */
-public class GChallenge {
+public class Main {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        /*
         TempConv a = new TempConv('c','k',363.0);
         System.out.println(a.convert());
-        
+        */
+        SecondsAgeCalc a = new SecondsAgeCalc();
+        a.now();
     }
     
 }
