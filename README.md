@@ -1,2 +1,2 @@
 Pro/g/ramming Challenges v1.4ε
-![ChallengeListPic](https://octodex.github.com/images/yaktocat.png)
+![ChallengeListPic](https://raw.githubusercontent.com/Agrendalath/Programming-Challenges-v1.4/master/challenges.jpg)
