@@ -18,7 +18,7 @@ public class Main {
         // TODO code application logic here
         
         //Controlller
-        
+        Scanner input = new Scanner(System.in);
         
         
         //Challenge 3 - Temperature converter
