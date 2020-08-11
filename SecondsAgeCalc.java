@@ -5,13 +5,17 @@
  */
 package gchallenge;
 import java.util.Date;
+import java.time.*;
 /**
  *
  * @author lesliewen
  */
 public class SecondsAgeCalc {
-    
+    LocalDateTime currentTime;
     public SecondsAgeCalc(){
-        
+        currentTime=LocalDateTime.now();
+    }
+    public void now(){
+        System.out.println(this.currentTime);
     }
 }
