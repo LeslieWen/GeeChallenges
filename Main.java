@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package gchallenge;
-
+import java.util.Scanner;
 /**
  *
  * @author lesliewen
@@ -16,6 +16,10 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //Controlller
+        
+        
         
         //Challenge 3 - Temperature converter
         /*
