@@ -1,7 +1,7 @@
 /*
     G Challenge 02 Temperature Converter
     Input parameters: input unit, desired output unit, input magnitude
-    C for celsius, K for Kelvin, F for Farenheit. 
+    C for Celsius, K for Kelvin, F for Farenheit. 
  */
 package gchallenge;
 
