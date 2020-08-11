@@ -17,10 +17,12 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        //Challenge 3 - Temperature converter
         /*
         TempConv a = new TempConv('c','k',363.0);
         System.out.println(a.convert());
         */
+        //Challenge 4 - Age Calculator in seconds
         SecondsAgeCalc a = new SecondsAgeCalc();
         a.now();
     }
